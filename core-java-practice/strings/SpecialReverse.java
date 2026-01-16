@@ -1,4 +1,5 @@
-package Day1;
+package strings;
+
 import java.util.Scanner;
 
 public class Q5_SpecialReverse {

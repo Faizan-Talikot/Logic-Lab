@@ -1,4 +1,5 @@
-package Day1;
+PrimeNumberCheck.java
+
 import java.util.Scanner;
 
 public class Q3_PrimeOrNot {

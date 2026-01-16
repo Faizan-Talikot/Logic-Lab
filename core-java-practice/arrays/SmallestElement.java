@@ -1,4 +1,5 @@
-package Day1;
+package arrays;
+
 
 public class Q2_SmallestElement {
 
