@@ -1,4 +1,4 @@
-package Day2;
+public class ATMSimulation
 
 import java.util.Scanner;
 
