@@ -1,4 +1,4 @@
-package Day2;
+package core.java.practice.arrays;
 
 public class Q5_secondLargest {
 
