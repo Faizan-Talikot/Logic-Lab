@@ -1,9 +1,9 @@
-package Day3;
+package core-java-practice.basics;
 
 import java.util.Scanner;
 import java.util.Stack;
 
-public class Q1_ExpEval {
+public class ExpressionEvaluator {
 	
 	//finds the precedence of the operator
 	private static int precedence(char op) {

@@ -1,8 +1,8 @@
-package Day3;
+package core-java-practice.strings;
 
 import java.util.Scanner;
 
-public class Q8_PasswordValidator {
+public class PasswordValidator {
 	
 	private static boolean isValid(String userName, String pwd) {
 		if(pwd.length() <8 || pwd.length() > 20) return false;

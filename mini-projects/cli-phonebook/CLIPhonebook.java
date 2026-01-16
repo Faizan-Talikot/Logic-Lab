@@ -1,8 +1,8 @@
-package Day3;
+package core.java.practice.strings;
 
 import java.util.Scanner;
 
-public class Q10_CLIPhonebook {
+public class CLIPhonebook {
 	private static String[] names = new String[100];
     private static String[] phones = new String[100];
     private static int contactCount = 0;

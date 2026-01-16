@@ -1,8 +1,8 @@
-package Day3;
+package core.java.practice.strings;
 
 import java.util.Scanner;
 
-public class Q3_StringAnalysis {
+public class StringAnalysis {
 	
 	private static void analyzeText(String str) {
 		int numberOfWords = 0,sentenceCount = 0, digits = 0, letter = 0;

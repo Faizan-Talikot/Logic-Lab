@@ -1,8 +1,8 @@
-package Day3;
+package core.java.practice.strings;
 
 import java.util.Scanner;
 
-public class Q6_RLE {
+public class RunLengthEncoding {
 	
 	private static boolean isAllLetters(String s) {
         if (s.isEmpty()) return false;

@@ -1,8 +1,8 @@
-package Day3;
+package mini.projects.atm.simulation.v2;
 
 import java.util.Scanner;
 
-public class Q4_ATMSimulator {
+public class ATMSimluator {
 
     private static double balance = 0.0;
     private static int pin = 1234;

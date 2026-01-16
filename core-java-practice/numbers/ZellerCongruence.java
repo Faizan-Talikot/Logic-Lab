@@ -1,8 +1,8 @@
-package Day3;
+package core-java-practice.numbers;
 
 import java.util.Scanner;
 
-public class Q5_ZellerCongruence {
+public class ZellerCongruence {
 	
 	public static String dayOfWeek(int d, int m, int y) {
 		if (m < 3) {

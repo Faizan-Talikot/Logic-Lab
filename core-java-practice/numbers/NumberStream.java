@@ -1,10 +1,10 @@
-package Day3;
+package core-java-practice.numbers;
 
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Scanner;
 
-public class Q9_NumberStream {
+public class NumberStream {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);

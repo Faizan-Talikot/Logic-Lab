@@ -1,8 +1,8 @@
-package Day3;
+package core.java.practice.oop.classes.and.objects;
 
 import java.util.Scanner;
 
-public class Q2_GradeBook {
+public class GradeBook {
 	
 	private static void printAll(int[] marks,String[] names) {
 		System.out.print("All: ");
