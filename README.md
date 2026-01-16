@@ -29,6 +29,43 @@ Small Java projects simulating real-world scenarios.
 
 - 📁 `atm-simulation` – ATM working logic using Java
 
+---
+
+## 🗂 Detailed Training Structure
+
+```
+Logic-Lab/
+│
+├── core-java-practice/
+│   ├── basics/                 # Basic Java programs
+│   ├── control-flow/           # If-else, loops, switch
+│   ├── arrays/                 # Array operations
+│   ├── methods/                # Method practices
+│   ├── strings/                # String manipulation
+│   ├── numbers/                # Number-based logic
+│   ├── patterns/               # Star & pattern problems
+│   ├── recursion/              # Recursion-based problems
+│   ├── collections/            # Collections framework
+│   ├── lambdas/                # Lambda expressions
+│   ├── streams/                # Stream API
+│   └── optional/               # Optional usage
+│
+├── oop-practice/
+│   ├── classes-and-objects/    # OOP fundamentals
+│   ├── static-and-final/       # static, final concepts
+│   └── singleton/              # Singleton pattern
+│
+├── mini-projects/
+│   ├── atm-simulation/         # ATM project (v1)
+│   ├── atm-simulation-v2/      # ATM project (v2)
+│   ├── bank-simulation/        # Bank simulation
+│   ├── cli-phonebook/          # CLI Phonebook
+│   └── library-management/     # Library management
+│
+└── README.md
+```
+
+
 
 ## 📅 Training Progress (Day-wise)
 
