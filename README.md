@@ -1,4 +1,13 @@
----
+# Logic-Lab 🧠💻
+
+A structured Java training repository documenting my hands-on learning journey at **Logic-Lab**, starting from **18 December**.
+
+This repository focuses on:
+- Building strong **Core Java fundamentals**
+- Improving **logical thinking & problem-solving**
+- Applying concepts through **mini-projects**
+- Following **clean code and industry-level organization**
+
 
 ## 📂 Repository Structure
 
