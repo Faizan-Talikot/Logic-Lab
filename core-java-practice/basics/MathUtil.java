@@ -1,4 +1,4 @@
-package Day4;
+package core.java.practice.basics;
 
 class MathUtil{
 	public static int max(int a,int b) {
@@ -15,7 +15,7 @@ class MathUtil{
     }
 }
 
-public class Q4_MathUtil {
+public class MathUtil {
 
 	public static void main(String[] args) {
 		System.out.println(MathUtil.max(7, 3));            // 7

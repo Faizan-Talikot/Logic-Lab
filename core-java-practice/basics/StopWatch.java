@@ -1,4 +1,4 @@
-package Day4;
+package core.java.practice.basics;
 
  class StopWatchTest {
 	private boolean running;
@@ -31,7 +31,7 @@ package Day4;
     }
 }	
 
-public class Q1_StopWatch {
+public class StopWatch {
 	
 
 	public static void main(String[] args) {

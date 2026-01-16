@@ -1,4 +1,4 @@
-package Day4;
+package core.java.practice.basics;
 
 class IdGenerator{
 	private static int next = 1000;
@@ -19,7 +19,7 @@ class User{
 	}
 }
 
-public class Q10_IdGenerator {
+public class IdGenerator {
 
 	public static void main(String[] args) {
 		User u1 = new User("A");
